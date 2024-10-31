@@ -1,6 +1,6 @@
 {
-    "name": " bubble-popping",
-    "description": "",
+    "name": "bubble-popping",
+    "description": "MakeCode simple game, using Joy of Bubble Popping tutorial as base.",
     "dependencies": {
         "device": "*",
         "multiplayer": "*",
@@ -11,6 +11,7 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "main.py",
         "README.md",
         "assets.json",
         "tilemap.g.jres",
